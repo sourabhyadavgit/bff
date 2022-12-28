@@ -1,1 +1,1 @@
-sample ms with mongo and kafa
+sample ms with mongo and kafka
